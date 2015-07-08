@@ -8,7 +8,7 @@
 ## Install
 
 ``` bash
-npm install marked --save
+npm install appc-marked --save
 ```
 
 ## Usage
